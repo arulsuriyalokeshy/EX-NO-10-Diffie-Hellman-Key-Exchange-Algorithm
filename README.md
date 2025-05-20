@@ -73,5 +73,5 @@ if __name__ == "__main__":
 
 
 ## Result:
-  The program is executed successfully
+  The program is executed successfully.
 
